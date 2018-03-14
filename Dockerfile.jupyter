@@ -1,0 +1,4 @@
+FROM jupyter/datascience-notebook
+
+MAINTAINER Mohammed E. Amer <mohammed.e.amer@gmail.com>
+
